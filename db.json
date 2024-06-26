@@ -1,0 +1,102 @@
+{
+  "videos": [
+    {
+      "caption": "Sajni Re",
+      "image": "https://c.saavncdn.com/252/Laapataa-Ladies-Hindi-2024-20240213151004-500x500.jpg",
+      "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+      "id": 1
+    },
+    {
+      "caption": "Score Revolution",
+      "image": "https://i.ytimg.com/vi/b99r48grKGI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/b99r48grKGI",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Hindi Songs",
+      "allVideo": [
+        {
+          "caption": "Sajni Re",
+          "image": "https://c.saavncdn.com/252/Laapataa-Ladies-Hindi-2024-20240213151004-500x500.jpg",
+          "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "Malayalam Songs",
+      "allVideo": [],
+      "id": 4
+    },
+    {
+      "categoryName": "Tamil Songs",
+      "allVideo": [],
+      "id": 5
+    },
+    {
+      "categoryName": "English Songs",
+      "allVideo": [
+        {
+          "caption": "Score Revolution",
+          "image": "https://i.ytimg.com/vi/b99r48grKGI/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/b99r48grKGI",
+          "id": 2
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "history": [
+    {
+      "caption": "Sajni Re",
+      "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+      "timeStamp": "20/06/2024, 11:01:58",
+      "id": 1
+    },
+    {
+      "caption": "Score Revolution",
+      "url": "https://www.youtube.com/embed/b99r48grKGI",
+      "timeStamp": "24/06/2024, 10:31:37",
+      "id": 2
+    },
+    {
+      "caption": "Sajni Re",
+      "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+      "timeStamp": "24/06/2024, 10:52:23",
+      "id": 3
+    },
+    {
+      "caption": "Score Revolution",
+      "url": "https://www.youtube.com/embed/b99r48grKGI",
+      "timeStamp": "25/06/2024, 09:09:52",
+      "id": 4
+    },
+    {
+      "caption": "Sajni Re",
+      "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+      "timeStamp": "25/06/2024, 09:38:21",
+      "id": 5
+    },
+    {
+      "caption": "Score Revolution",
+      "url": "https://www.youtube.com/embed/b99r48grKGI",
+      "timeStamp": "25/06/2024, 11:00:17",
+      "id": 6
+    },
+    {
+      "caption": "Sajni Re",
+      "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+      "timeStamp": "26/06/2024, 09:06:42",
+      "id": 7
+    },
+    {
+      "caption": "Sajni Re",
+      "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+      "timeStamp": "26/06/2024, 09:06:45",
+      "id": 8
+    }
+  ]
+}
